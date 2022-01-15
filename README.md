@@ -19,4 +19,5 @@ Section 7 - Variables and Strings
 
 # Day 2 thoughts: Fairly basic after being in a dev role for the past few years,
 # but going back to basics to really let syntax sink in and to gain confidence
-# in a new language while it's just a personal endeavor.
+# in a new language while it's just a personal endeavor.  Dynamic Typing is also 
+# pretty interesting coming from a mainly C#/Java/C++ background (C# mainly)
